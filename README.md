@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristenkj&label=Profile%20views&color=0e75b6&style=flat" alt="kristenkj" /> </p>
 
-- 🌱 I’m currently learning **QA Automation w/Selenium & JAVA**
+- 🌱 I’m currently learning **QA Web Automation, API Automation, Python, & JAVA **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kristenkj](https://github.com/Kristenkj)
 
