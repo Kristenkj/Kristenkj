@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋🏾, I'm Kristen Jones</h1>
 <h3 align="center">Senior System Test Analyst 👩🏾‍💻</h3>
-<img align = "right" alt = "Coding" width = "350" src = "https://storage.googleapis.com/pai-images/a4a2e03a5a894bac90635858171779a3.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristenkj&label=Profile%20views&color=0e75b6&style=flat" alt="kristenkj" /> </p>
 
