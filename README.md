@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋🏾, I'm Kristen Jones</h1>
-<h3 align="center">Senior System Test Analyst/QA Engineer 👩🏾‍💻</h3>
+<h3 align="center">QA Automation Engineer 👩🏾‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristenkj&label=Profile%20views&color=0e75b6&style=flat" alt="kristenkj" /> </p>
 
