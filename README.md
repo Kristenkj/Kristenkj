@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristenkj&label=Profile%20views&color=0e75b6&style=flat" alt="kristenkj" /> </p>
 
-- 🌱 I’m currently learning **Web and API Automation, Python, HTML and CSS **
+- 🌱 I’m currently learning **Web and API Automation, Python, Java HTML and CSS **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kristenkj](https://github.com/Kristenkj)
 
