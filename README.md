@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ** Web and API Automation with Python **
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kristenkj](https://github.com/Kristenkj)
+- 👩🏾‍💻 All of my projects are available at [https://github.com/Kristenkj](https://github.com/Kristenkj)
 
 - 📫 How to reach me **Jonesbkristen@gmail.com**
 
