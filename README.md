@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristenkj&label=Profile%20views&color=0e75b6&style=flat" alt="kristenkj" /> </p>
 
-- 🌱 I’m currently learning ** Web and API Automation with Python **
+- 🌱 I’m currently learning **REST API Automation with Python**
+
+- 💬 Ask me about **Web Automation with Python**
+  
+- 🔭 I’m currently working on **mastering Git, Using two different user accounts to push code to projects without altering any part of the repo.**
 
 - 👩🏾‍💻 All of my projects are available at [https://github.com/Kristenkj](https://github.com/Kristenkj)
 
