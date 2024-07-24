@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Web Automation with Python**
   
-- 🔭 I’m currently working on **mastering Git, Using two different user accounts to push code to projects without altering any part of the repo.**
+- 🔭 I’m currently working on **going more in-depth with understanding GIT**
 
 - 👩🏾‍💻 All of my projects are available at [https://github.com/Kristenkj](https://github.com/Kristenkj)
 
