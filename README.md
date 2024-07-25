@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **Jonesbkristen@gmail.com**
 
+<h3 align="center">⚡Education⚡</h3> 
+
+- Exercising Leadership: Foundation Principles: edX, HarvardX
+- Selenium Python Automation Testing from Scratch + Frameworks: Rahul Shetty Academy
+- Selenium Webdriver with Python: SuperSQA
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
