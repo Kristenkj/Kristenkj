@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - **Selenium Webdriver with Python: SuperSQA - IN PROGRESS**  
   Developed foundational skills in Selenium WebDriver and Python automation, including setup, writing test scripts, and handling web elements.
 
-📚For a comprehensive list of all my completed courses and certifications, check out my [certifications repository](https://github.com/yourusername/certifications).  
+📚For a comprehensive list of all my completed courses and certifications, check out my [certifications repository](https://github.com/kristen-jones/Certifications/tree/main).  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
