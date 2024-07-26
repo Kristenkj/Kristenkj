@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   [LEAD1x: Exercising Leadership: Foundational Principles Certificate](https://courses.edx.org/certificates/60149bdfe7e54cd19c17586c5ff170a5?_gl=1*1tzsvwr*_gcl_au*MzU5MDgxNzkxLjE3MjE5MjMxMTU.*_ga*MTQ0NTgzMzQ2Mi4xNzIxOTIzMTE1*_ga_D3KS4KMDT0*MTcyMTk0NTUxMS4yLjEuMTcyMTk1MDE3MC4yOC4wLjA.)
 - Selenium Python Automation Testing from Scratch + Frameworks: Rahul Shetty Academy - IN PROGRESS
 - Selenium Webdriver with Python: SuperSQA - IN PROGRESS
-- CS50's Introduction to Computer Science: edX, HarvardX - IN PROGRESS
+- CS50's Introduction to Programming with Python: edX, HarvardX - IN PROGRESS
 
 
 <h3 align="left">Languages and Tools:</h3>
