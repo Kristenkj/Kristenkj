@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **Jonesbkristen@gmail.com**
 
 
-<h3 align="center">🚀 Education:</h3> 
+<h3 align="center">🚀 Completed Courses and Certifications:</h3> 
 
 - **Exercising Leadership: Foundation Principles: edX, HarvardX**  
   Explored foundational leadership principles, including diagnosing situations, managing stakeholders, and driving change.   
@@ -42,9 +42,8 @@ Here are some ideas to get you started:
   
 - **Selenium Webdriver with Python: SuperSQA - IN PROGRESS**  
   Developed foundational skills in Selenium WebDriver and Python automation, including setup, writing test scripts, and handling web elements.
-  
-- **CS50's Introduction to Programming with Python: edX, HarvardX - IN PROGRESS**
 
+📚For a comprehensive list of all my completed courses and certifications, check out my [certifications repository](https://github.com/yourusername/certifications).  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
