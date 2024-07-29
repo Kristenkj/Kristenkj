@@ -30,15 +30,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **Jonesbkristen@gmail.com**
 
 
-<h3 align="center">🚀 Completed Courses and Certifications:</h3> 
-
-- **Exercising Leadership: Foundation Principles: edX, HarvardX**  
-  Explored foundational leadership principles, including diagnosing situations, managing stakeholders, and driving change.   
-  [LEAD1x: Exercising Leadership: Foundational Principles Certificate](https://courses.edx.org/certificates/60149bdfe7e54cd19c17586c5ff170a5?_gl=1*1tzsvwr*_gcl_au*MzU5MDgxNzkxLjE3MjE5MjMxMTU.*_ga*MTQ0NTgzMzQ2Mi4xNzIxOTIzMTE1*_ga_D3KS4KMDT0*MTcyMTk0NTUxMS4yLjEuMTcyMTk1MDE3MC4yOC4wLjA.)
-  
-  
-- **Selenium Python Automation Testing from Scratch + Frameworks: Rahul Shetty Academy - IN PROGRESS**  
-  Mastered both basic and advanced Selenium techniques with Python, including handling pop-ups, synchronization, and integrating with test frameworks.
+<h3 align="center">🚀 Continued Professional Development</h3> 
   
 - **Selenium Webdriver with Python: SuperSQA - IN PROGRESS**  
   Developed foundational skills in Selenium WebDriver and Python automation, including setup, writing test scripts, and handling web elements.
