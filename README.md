@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">🚀 Continued Professional Development</h3> 
   
-- **Selenium Webdriver with Python: SuperSQA - IN PROGRESS**  
+- **Selenium Webdriver with Python: SuperSQA **  
   Developed foundational skills in Selenium WebDriver and Python automation, including setup, writing test scripts, and handling web elements.
 
 📚For a comprehensive list of all my completed courses and certifications, check out my [certifications repository](https://github.com/kristen-jones/Certifications/tree/main).  
