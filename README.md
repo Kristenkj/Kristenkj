@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   
 - 🔭 I’m currently working on **going more in-depth with understanding GIT**
 
-- 👩🏾‍💻 All of my projects are available at [https://github.com/Kristenkj](https://github.com/Kristenkj)
+- 👩🏾‍💻 All of my projects are available at [https://github.com/Kristenkj](https://github.com/kristen-jones)
 
 - 📫 How to reach me **Jonesbkristen@gmail.com**
 
